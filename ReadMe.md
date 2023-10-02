@@ -1,6 +1,5 @@
-'''
 The Rules
-'''
+##########
 Rule #1 - Cake is always welcome.
 Rule #2 - People lie and exaggerate to get things looked at faster.
 Rule #3 - Assume anything you have been told by anyone is false unless proved otherwise.
